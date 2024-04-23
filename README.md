@@ -1,4 +1,4 @@
-# AIP Labelling Activities for UiPath
+# Microsoft Office AIP Labelling Activities for UiPath
 I have developed custom activities for getting and setting sensitivity label on MSO application files. For now, this activity is compatible with Excel (*.xls*), Word (*.doc*) and Powerpoint (*.ppt*) files. Outlook mail labelling will be implemented as a future enhancement.
  
 Sensitivity label can be set across different file types (i.e. a label you retrieve from an Excel workbook can be used to set on a Word document or Powerpoint presentation.)
